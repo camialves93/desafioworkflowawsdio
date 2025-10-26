@@ -27,7 +27,6 @@ O projeto simula um **fluxo de execução serverless**, integrando Lambda, ECS, 
 | **Amazon SNS** | Envio de notificações automáticas | Integração simples com e-mails, filas ou mensagens |
 | **AWS Step Functions** | Orquestração do fluxo de execução | Permite controle, monitoramento e paralelismo |
 
----
 
 ## Aprendizados e Insights
 
@@ -52,14 +51,12 @@ O projeto simula um **fluxo de execução serverless**, integrando Lambda, ECS, 
 - Maior compreensão sobre **design de sistemas serverless**.
 - Criação de uma base sólida para **projetos futuros com automação AWS**.
 
----
 
 ## Conclusão
 
 Este estudo demonstrou na prática como **Step Functions podem integrar múltiplos serviços AWS** para criar pipelines complexos de maneira simples, escalável e resiliente.  
 A prática reforçou a importância de **arquiteturas orientadas a eventos**, **execuções paralelas** e **observabilidade** em sistemas distribuídos.
 
----
 
 ## Próximos Passos
 
