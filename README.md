@@ -17,7 +17,7 @@ O projeto simula um **fluxo de execução serverless**, integrando Lambda, ECS, 
 5. **SNS Publish** → envia uma mensagem ou alerta de conclusão do processo.
 6. **End** → encerra o fluxo.
 
-## ☁️ Serviços AWS Utilizados
+##  Serviços AWS Utilizados
 
 | Serviço AWS | Função no Projeto | Observações |
 |--------------|------------------|--------------|
